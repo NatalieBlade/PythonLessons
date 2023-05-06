@@ -1,0 +1,25 @@
+1626299900153	geckodriver	INFO	Listening on 127.0.0.1:49313
+1626299903225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\98AF~1\\AppData\\Local\\Temp\\rust_mozprofileZuSMeK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626299909075	Marionette	INFO	Listening on port 49321
+1626299909589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626299909646	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1626299922147	Marionette	INFO	Stopped listening on port 49321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626299931466	geckodriver	INFO	Listening on 127.0.0.1:49338
+1626299934514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\98AF~1\\AppData\\Local\\Temp\\rust_mozprofileNB8Gin"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626299939533	Marionette	INFO	Listening on port 49346
+1626299939900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626299939972	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1626299984462	Marionette	INFO	Stopped listening on port 49346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
